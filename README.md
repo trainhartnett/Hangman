@@ -12,7 +12,6 @@ User Stories:
 
 
 //Game Flow Pseudocode
-// ...existing code...
 
 To start the Hangman game, display the game title and instructions to the player.
 Randomly select a hidden word from a predefined list.
