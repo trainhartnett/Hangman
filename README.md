@@ -1,3 +1,27 @@
+# Name of the game
+Hangman
+
+# How to play ?
+Is a word guessing game. Computer thinks of a word, the player guesses it by choosing letters from the alphabet.
+There are certain amount of guesses after player guesses the word, they win.
+If player used all guesses and still not guessed the word, they lose.
+
+# Getting started
+Project link : https://trainhartnett.github.io/Hangman/
+
+# Screen Shot
+![Game Screenshot or Logo](./images/screenshot.png)
+
+# Attributions: Images
+https://drive.google.com/drive/folders/1S5bt-CPdsLbUq1LNh-zIGXbelKk4MpmQ
+
+# Technologies Used:
+JavaScript, HTML, CSS, Images.
+
+# Next steps:
+ I will try to add sound to make the game to make it more attractive and interactive
+
+
 User Stories:
 
 1. As a player, I want to know the game and instructions, so that I understand how to play the game.
